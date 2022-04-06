@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export PVS_IMAGE=pvs
+export PROJECT_MNT=/home/project
