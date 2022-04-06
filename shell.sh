@@ -6,4 +6,4 @@ docker   \
     run  \
     --rm \
     -ti  \
-    ${FZ_IMAGE}
+    ${PVS_IMAGE}

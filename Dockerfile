@@ -33,5 +33,3 @@ RUN cd /opt && \
 RUN apt -y install pvs-studio
 
 COPY PVS-Studio.lic /home
-
-COPY pvs.sh /usr/bin
